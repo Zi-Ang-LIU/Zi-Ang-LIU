@@ -1,3 +1,3 @@
 # zi-ang-liu.github.io
-Personal website:
+Homepage:
 https://zi-ang-liu.github.io
