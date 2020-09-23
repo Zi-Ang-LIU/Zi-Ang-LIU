@@ -1,0 +1,15 @@
+.doi_frame {
+    background: rgba(0, 90, 156, 1);
+    border-bottom: 0;
+    border-radius: 4px 0 4px 0;
+    color: #ffffff !important;
+    display: inline-block;
+    padding: 2px 5px;
+    font-size: 11px !important;
+    line-height: 11px;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
