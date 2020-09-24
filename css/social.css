@@ -1,10 +1,10 @@
 .socials__item__link {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
+    display: block;
     text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
+    padding: 16px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
 }
 
 .socials__item__link:hover {
