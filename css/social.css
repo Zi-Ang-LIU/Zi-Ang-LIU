@@ -1,10 +1,12 @@
 .socials__item__link {
-    top: 50%;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
 }
 
 .socials__item__link:hover {
-    background-color: rgb(235, 225, 225);
+    background-color: #000;
 }
